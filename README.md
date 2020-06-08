@@ -1,2 +1,0 @@
-# awari
-projeto.awari
